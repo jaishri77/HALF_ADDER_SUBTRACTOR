@@ -78,4 +78,4 @@ endmodule
 
 
 **Result:**
-Thus the half adder and subtractor are verified and the logic gates are studied
+Thus the half adder and subtractor are verified and the logic gates are studied.
